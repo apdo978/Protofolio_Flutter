@@ -41169,7 +41169,7 @@ A.alF.prototype={
 $0(){A.fX(this.a,"/Projects",t.X)},
 $S:0}
 A.alG.prototype={
-$0(){return this.a.ru("https://abdelrhman-dev.me/Abdelrhman/assets/cv%20(1)-qWc_HrQv.pdf")},
+$0(){return this.a.ru("https://abdelrhman-dev.me/Abdelrhman/assets/cv%20(1)-9CBPluJZ.pdf")},
 $S:0}
 A.als.prototype={
 $0(){return this.a.ru(this.b)},
